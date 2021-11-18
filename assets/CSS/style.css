@@ -1,0 +1,74 @@
+html {
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+#body {
+    height: 100%;
+}
+#logo {
+    height: 15%;
+    width: 15%;
+}
+#logoHolder {
+    width: 50%;
+}
+.head {
+    background: rgb(209, 62, 62);
+    border-bottom: 5px solid black;
+}
+.searchArea {
+    background: rgb(214, 156, 46);
+    border-right: 5px solid black;
+}
+.searchBar{
+    width: 100%;
+}
+.searchButton {
+    background: rgb(163, 163, 163);
+    box-shadow: 5px 5px 5px white;
+}
+.saveCity{
+    background:rgb(163, 163, 163);;
+}
+.forcast {
+    background: rgb(163, 163, 163);
+}
+.fiveDayBox {
+    background: rgb(214, 156, 46);
+    border: 5px solid black;
+    box-shadow: 4px 4px 7px rgb(187, 106, 19);
+    border-radius: 10px;
+}
+
+.uvLow{
+    padding : 5px 30px 5px 30px;
+    border:1px solid black;
+    border-radius: 5px;
+    background: rgb(40,149,0);
+}
+.uvMod{
+    padding : 5px 30px 5px 30px;
+    border:1px solid black;
+    border-radius: 5px;
+    background: rgb(247, 228, 0);
+}
+.uvHigh{
+    padding : 5px 30px 5px 30px;
+    border:1px solid black;
+    border-radius: 5px;
+    background: rgb(248,89,0);
+}
+.uvVery{
+    padding : 5px 30px 5px 30px;
+    border:1px solid black;
+    border-radius: 5px;
+    background: rgb(216,0,29);
+}
+.uvExt{
+    padding : 5px 30px 5px 30px;
+    border:1px solid black;
+    border-radius: 5px;
+    background: rgb(107,73,200);
+}
