@@ -2,7 +2,7 @@
 # Weather Dashboard
 ![Site Image](assets/pics/readmePic.png)
 ## Description
-Makes multiple calls to openweatherapi in order to bring the user current weather data as well as a five day forcast. It stores previously searched citys and replaces the ones under the search bar with them upon reload.  
+Makes multiple calls to openweatherapi in order to bring the user current weather data as well as a five day forcast. It stores previously searched citys and replaces the ones under the search bar with them upon reload. Check it out here [My Weather Dashboard](https://krestle80.github.io/weatherDashboard/)
 ## Table of Contents
 - #### [Description](##-description)
 - #### [Usage Information](##-usage-information)
@@ -13,7 +13,7 @@ Makes multiple calls to openweatherapi in order to bring the user current weathe
 ## Usage Information
 Type in the name of a city and hit search, or click one of the city names below the search bar.
 ## License
-Copyright  2021  kyle
+Copyright  2021  Kyle Costello 
  
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
